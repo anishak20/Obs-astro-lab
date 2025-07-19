@@ -11,7 +11,7 @@ This project was carried out as part of the course **PH-EL64: Observational Astr
 ## Objective
 
 - To study the **age**, **metallicity**, and **extra-tidal region** of the globular cluster **NGC 4147** using data from Gaia DR3. 
-- To identifyextra-tidal candidates based on cluster and stellar proper motions, and their positions on the color–magnitude diagram.
+- To identify extra-tidal candidates based on cluster and stellar proper motions, and their positions on the color–magnitude diagram.
 - Analyze the spatial distribution of these stars to understand the cluster’s dynamical history within the Milky Way.
 
 
