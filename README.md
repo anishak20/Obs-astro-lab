@@ -45,5 +45,5 @@ Clone this repository and open the Jupyter notebook named ObsAstroLab (1).ipynb.
 ## Contact
 For any queries, feel free to reach out:
 
-Email: khatri.anisha20@gmail.com
+Email: khatri.anisha20@gmail.com <br>
 LinkedIn: https://linkedin.com/AnishaKhatri
