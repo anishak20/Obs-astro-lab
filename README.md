@@ -24,7 +24,7 @@ pip install numpy pandas matplotlib scipy astropy
 ```
 ## Usage 
 
-Clone this repository and open the Jupyter notebook named ObsAstroLab (1).ipynb. Run the notebook cells in sequence to follow the full data analysis and visualization pipeline.
+Clone this repository and open the Jupyter notebook named `ObsAstroLab (1).ipynb`. Run the notebook cells in sequence to follow the full data analysis and visualization pipeline.
 
 
 ## Project Workflow
